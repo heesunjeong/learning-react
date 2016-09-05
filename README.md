@@ -13,7 +13,9 @@ Component를 만드는 이유: 컴포넌트를 조합해 더 튼 컴포넌트를
 - 속성 값을 별도로 지정하지 않았을때 이용할 기본값을 지정하려면 defaultProps객체를 생성자 속성으로 정의
 
 ### 기본 제공되는 propTypes 유효성 검사기
-사진넣기
+![propTypes](/images/1.png)
+![propTypes2](/images/2.png)
+![propTypes3](/images/2.png)
 
 ### 커스텀 propTypes 유효성 검사기
 유효성 검사기는 속성의 리스트, 검사할 속성의 이름, 컴포넌트 이름ㅇ르 받는 함수이다.
